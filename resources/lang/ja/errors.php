@@ -5,7 +5,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Error Language Lines
+    | HTTP Error Language Lines
     |--------------------------------------------------------------------------
     |
     | Message list of code composed of 3 digit numbers representing
